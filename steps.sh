@@ -8,3 +8,4 @@ gradle task
 cat ~/.lazybones/config.groovy
 
 #https://start.spring.io/
+#https://github.com/jkbrzt/httpie
