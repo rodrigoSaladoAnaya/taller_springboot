@@ -3,3 +3,6 @@ gradle init
 
 #lista las tareas disponibles
 gradle task
+
+#directorio de configuración de lazybones
+cat ~/.lazybones/config.groovy
