@@ -6,3 +6,5 @@ gradle task
 
 #directorio de configuración de lazybones
 cat ~/.lazybones/config.groovy
+
+#https://start.spring.io/
